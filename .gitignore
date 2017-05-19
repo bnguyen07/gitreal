@@ -1,4 +1,6 @@
 
 *.map
 node_modules/
-src/*.js
+TourOfHeroes/src/**/*.*.js
+TourOfHeroes/src/**/*.js
+TourOfHeroes/src/main.js
